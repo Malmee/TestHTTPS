@@ -1,0 +1,13 @@
+target/
+
+# Eclipse Project Files
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA Project Files
+.idea/
+*.iml
+
+#python bytecode
+*.pyc
